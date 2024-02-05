@@ -112,6 +112,8 @@ body {
 
 /* Layout */
 .profile-card {
+  --content-padding: 1.5rem;
+
   background-color: var(--clr-neutral-800);
 }
 
