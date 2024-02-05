@@ -109,3 +109,10 @@ body {
   text-decoration: none;
   font-weight: var(--fw-dark);
 }
+
+/* Layout */
+
+.social-list {
+  list-style: none;
+  padding: 0;
+}
