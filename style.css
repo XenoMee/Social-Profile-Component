@@ -122,3 +122,9 @@ body {
   list-style: none;
   padding: 0;
 }
+
+/* Utility classes */
+.grid-flow {
+  display: grid;
+  gap: 1.5rem;
+}
