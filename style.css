@@ -15,4 +15,9 @@
 
   /* Font family */
   --font-family-base: "Inter";
+
+  /* Font weight */
+  --fw-regular: 400;
+  --fw-bold: 600;
+  --fw-dark: 700;
 }
