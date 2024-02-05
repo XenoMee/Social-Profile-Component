@@ -105,6 +105,7 @@ body {
 }
 
 .social-link {
+  display: block;
   color: inherit;
   background-color: var(--clr-neutral-500);
   text-decoration: none;
