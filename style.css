@@ -106,6 +106,7 @@ body {
 
 .social-link {
   color: inherit;
+  background-color: var(--clr-neutral-500);
   text-decoration: none;
   font-weight: var(--fw-dark);
 }
