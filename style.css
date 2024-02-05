@@ -148,7 +148,7 @@ body {
   gap: 1.5rem;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 460px) {
   .profile-card {
     --content-padding: 2.5rem;
   }
