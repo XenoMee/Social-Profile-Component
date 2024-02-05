@@ -120,6 +120,7 @@ body {
 
   background-color: var(--clr-neutral-800);
   padding: var(--content-padding);
+  border-radius: 0.8rem;
 }
 
 .social-list {
