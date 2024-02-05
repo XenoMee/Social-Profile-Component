@@ -86,7 +86,7 @@ body {
 
   min-height: 100svh;
   display: grid;
-  place-content: center;
+  align-content: center;
 }
 
 /* Typography */
@@ -119,9 +119,11 @@ body {
 .profile-card {
   --content-padding: 1.5rem;
 
+  max-width: 25rem;
   background-color: var(--clr-neutral-800);
   padding: var(--content-padding);
   border-radius: 0.8rem;
+  margin: 0 auto;
 }
 
 .user-avatar {
