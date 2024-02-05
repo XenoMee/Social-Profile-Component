@@ -12,4 +12,7 @@
   --clr-neutral-500: hsl(0, 0%, 20%);
   --clr-neutral-800: hsl(0, 0%, 12%);
   --clr-neutral-900: hsl(0, 0%, 8%);
+
+  /* Font family */
+  --font-family-base: "Inter";
 }
