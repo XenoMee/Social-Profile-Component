@@ -111,6 +111,9 @@ body {
 }
 
 /* Layout */
+.profile-card {
+  background-color: var(--clr-neutral-800);
+}
 
 .social-list {
   list-style: none;
