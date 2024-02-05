@@ -125,6 +125,7 @@ body {
 
 .user-avatar {
   justify-self: center;
+  max-width: 5.5rem;
 }
 
 .social-list {
