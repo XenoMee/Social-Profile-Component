@@ -94,3 +94,7 @@ body {
 }
 
 /* Typography */
+.user-name {
+  font-size: var(--fs-600);
+  font-weight: var(--fw-bold);
+}
