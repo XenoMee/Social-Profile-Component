@@ -98,3 +98,8 @@ body {
   font-size: var(--fs-600);
   font-weight: var(--fw-bold);
 }
+
+.user-location {
+  color: var(--clr-primary-500);
+  font-weight: var(--fw-dark);
+}
