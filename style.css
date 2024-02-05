@@ -84,4 +84,7 @@ body {
   color: var(--clr-neutral-100);
   text-align: center;
   line-height: 1.5;
+  font-family: var(--font-family-base);
+  font-weight: var(--fw-regular);
+  font-size: var(--fs-100);
 }
