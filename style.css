@@ -106,10 +106,12 @@ body {
 
 .social-link {
   display: block;
+  padding: 0.8rem 2.5rem;
   color: inherit;
   background-color: var(--clr-neutral-500);
   text-decoration: none;
   font-weight: var(--fw-dark);
+  border-radius: 0.5rem;
 }
 
 /* Layout */
