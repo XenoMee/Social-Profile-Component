@@ -123,6 +123,10 @@ body {
   border-radius: 0.8rem;
 }
 
+.user-avatar {
+  justify-self: center;
+}
+
 .social-list {
   list-style: none;
   padding: 0;
