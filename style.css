@@ -89,4 +89,6 @@ body {
   font-size: var(--fs-100);
 
   min-height: 100svh;
+  display: grid;
+  justify-content: center;
 }
