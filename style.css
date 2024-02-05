@@ -124,6 +124,10 @@ body {
   padding: 0;
 }
 
+.social-item:not(:last-of-type) {
+  margin-bottom: 1rem;
+}
+
 /* Utility classes */
 .grid-flow {
   display: grid;
